@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">SimpleDemo</string>
+    <string name="ar_test_text">%s اختر</string>
 </resources>

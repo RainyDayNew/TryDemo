@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--%s 不能自动根据阿语调整位置-->
+    <!--s% 可自动适配-->
+    <!--以上两种方式均需测试，不保证会成功 （猜测与输入方式有关连）-->
+    <string name="buy_more_to_enjoy_free_express_k252">اشتري %s اكثر لتستمع بشحن سريع مجاني!</string>
+    <string name="ar_test_text"> اختر %s</string>
+</resources>
